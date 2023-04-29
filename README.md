@@ -1,4 +1,4 @@
-- The name @DankZedDude
+- The name is @DankZedDude
 - I’m passionate about making interactive experiences.
 - Currently learning Unreal Engine,  C and C++.
 
